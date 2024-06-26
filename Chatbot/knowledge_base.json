@@ -1,0 +1,68 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "How are you today?",
+      "answer": "Good thanks, you?"
+    },
+    {
+      "question": "What color is the sky?",
+      "answer": "The sky is Blue"
+    },
+    {
+      "question": "What is the capital of Ireland?",
+      "answer": "Dublin"
+    },
+    {
+      "question": "You works for Arcane?",
+      "answer": "Ben, Attila, Dan and Danielle"
+    },
+    {
+      "question": "Who can I contact regarding UL scheduling?",
+      "answer": "You can contact Ben Lenihan if you have questions on scheduling."
+    },
+    {
+      "question": "I have a scheduling question?",
+      "answer": "Contact Ben Lenihan for scheduling questions"
+    },
+    {
+      "question": "Who manages workflows?",
+      "answer": "Attila is the person to contact regarding workflows"
+    },
+    {
+      "question": "Who can I speak to about a workflow question?",
+      "answer": "Please contact Attila with your question"
+    },
+    {
+      "question": "How many hours are in a day?",
+      "answer": "There are 24 hours in a day"
+    },
+    {
+      "question": "UL is based in county Limerick",
+      "answer": "Where is UL?"
+    },
+    {
+      "question": "Where is UL?",
+      "answer": "UL is in county Limerick"
+    },
+    {
+      "question": "Is the sky blue?",
+      "answer": "Yes the sky is blue"
+    },
+    {
+      "question": "UL is in what county?",
+      "answer": "UL is in county Limerick"
+    },
+    {
+      "question": "What county is UL based in?",
+      "answer": "UL is in county Limerick"
+    },
+    {
+      "question": "How old am I?",
+      "answer": "I am 33"
+    }
+  ]
+}
